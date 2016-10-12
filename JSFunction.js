@@ -1,6 +1,7 @@
 /*
 *Jennifer DeWall
 *Cs290 Week 3 - Activity 2
+*JavaScript
 */
 
 //Call to function that prints out text
